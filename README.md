@@ -27,7 +27,7 @@ Install the required libraries using the following command:
 
 Example:
 
-python metrics.py prometheus.example.com http
+`python metrics.py prometheus.example.com http`
 
 This command will fetch metrics from the specified Prometheus/Thanos server, filter them based on the lines that start with the provided filter, and save the filtered metrics in a `metrics.txt` file.
 
