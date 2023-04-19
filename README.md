@@ -1,3 +1,4 @@
+[![Lint+Test](https://github.com/gfarcas/dashboard-kickstart/actions/workflows/python-app.yml/badge.svg)](https://github.com/gfarcas/dashboard-kickstart/actions/workflows/python-app.yml)
 # Dashboard Kickstart 
 
 This is a Python script to fetch and filter Prometheus/Thanos metrics and generate a dashboard file (`frontend.json`) using the filtered metrics.
