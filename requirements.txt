@@ -1,4 +1,3 @@
 grafanalib
 requests
-os
 argparse
