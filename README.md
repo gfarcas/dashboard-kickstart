@@ -3,7 +3,7 @@
 
 This is a Python script to fetch and filter Prometheus/Thanos metrics and generate a dashboard file (`frontend.json`) using the filtered metrics.
 
-NOTE: the script creates the panels with the default datasource set in grafana. If you want them created with a different datasource you can edit the `dashgen.dashboard.py file and add a `datasource="Prometheus"` key to the Targets list. More details on grafanalib https://grafanalib.readthedocs.io/en/stable/getting-started.html#generating-dashboards
+NOTE: the script creates the panels with the default datasource set in grafana. If you want them created with a different datasource you can edit the `dashgen.dashboard.py` file and add a `datasource="Prometheus"` key to the Targets list. More details on grafanalib https://grafanalib.readthedocs.io/en/stable/getting-started.html#generating-dashboards
 ## Requirements
 
 - Python 3.6 or higher
