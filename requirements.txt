@@ -1,2 +1,2 @@
 grafanalib==0.7.0
-Requests==2.28.2
+Requests==2.29.0
